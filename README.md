@@ -1,3 +1,6 @@
+
+![alt text](https://github.com/Marcelo-bl4ck-dev/vue-flow-practice/blob/main/vue-flow-practice.gif)
+
 # blocks-flow
 
 This template should help get you started developing with Vue 3 in Vite.
