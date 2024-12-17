@@ -8,7 +8,6 @@ const { onConnect, addEdges, getEdges, onNodeDrag, updateNode } = useVueFlow()
 
 onConnect((connection) => {
   addEdges(connection)
-  console.log(edges)
 })
 
 onNodeDrag((dragEvent) => {
